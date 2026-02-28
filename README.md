@@ -1,7 +1,7 @@
 # 💫 About Me:
-🚀 Third-year Computer Science Engineering student
-💻 Passionate about Full-Stack Development & Problem Solving
-🌱 Currently exploring new technologies and building real-world projects
+🚀 Third-year Computer Science Engineering student<br>
+💻 Passionate about Full-Stack Development & Problem Solving<br>
+🌱 Currently exploring new technologies and building real-world projects<br>
 🎯 Goal: To become a skilled Software Developer and contribute to impactful innovations
 
 
