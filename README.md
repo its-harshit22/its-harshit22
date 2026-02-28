@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am third year student in CSE Department and working on different tech stack  My name is Harshit Kushwah
+🚀 Third-year Computer Science Engineering student
+💻 Passionate about Full-Stack Development & Problem Solving
+🌱 Currently exploring new technologies and building real-world projects
+🎯 Goal: To become a skilled Software Developer and contribute to impactful innovations
 
 
 ## 🌐 Socials:
