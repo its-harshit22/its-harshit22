@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Harshit Kushwah</h1>
-<h3 align="center">🚀 Software Developer | Full Stack Developer | DSA Enthusiast</h3>
+<h3 align="center">🚀 Software Developer | C++ | DSA Enthusiast | Full Stack Developer</h3>
 
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Problem+Solver;Cloud+Enthusiast;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;DSA+Problem+Solver;Full+Stack+Developer;Cloud+Learner" />
 </p>
 
 ---
 
 ## 🚀 About Me:
-- 🎓 B.Tech CSE @ SISTec (CGPA: 8.15)  
-- 💻 Strong in **Java, DSA & Full Stack Development**  
+- 🎓 B.Tech CSE Student @ SISTec  
+- 💻 Strong in **C++ & Data Structures and Algorithms**  
+- ⚡ Skilled in **Problem Solving (LeetCode)**  
+- 🌐 Full Stack Developer (MERN + Web)  
 - ☁️ Cloud Co-Lead @ GDG SISTec  
-- 🧠 Built AI-based solutions (Google Solution Challenge)  
 - 🎯 Goal: Crack a **Product-Based Company (SDE Role)**  
 
 ---
@@ -29,7 +30,7 @@
 
 ## 📄 Resume:
 <p align="center">
-<a href="YOUR_RESUME_LINK_HERE" target="_blank">
+<a href="https://github.com/its-harshit22/Current_Resume" target="_blank">
 <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 </p>
@@ -38,7 +39,7 @@
 
 ## 💻 Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,gcp,azure" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,gcp,azure" />
 </p>
 
 ---
@@ -53,23 +54,27 @@
 ## 🚀 Featured Projects:
 
 ### 🔹 Contact API
-- REST API for managing contacts efficiently  
+- REST API for managing contacts  
 - 🔧 Tech: Node.js, Express  
 
 ### 🔹 Library Management System
 - Manage books, issue/return system  
-- 🔧 Tech: Java / Web  
+- 🔧 Tech: Java  
+
+### 🔹 Student Management System
+- Manage student data & records  
+- 🔧 Tech: Java  
 
 ### 🔹 ChatBot 🤖
-- Smart chatbot (coin flip, dice roll, future updates planned)  
+- Interactive chatbot with utilities  
 - 🔧 Tech: JavaScript  
 
-### 🔹 Repo Backup Tool
-- Automates GitHub repo backups  
-- 🔧 Tech: Python  
+### 🔹 Farmer Support System 🌾
+- Helps farmers with useful resources  
+- 🔧 Tech: Web  
 
 ### 🔹 Portfolio Website
-- Personal portfolio with modern UI  
+- Modern responsive portfolio  
 - 🔗 Live: https://its-harshit22.github.io/portfolio  
 - 🔧 Tech: HTML, CSS, JS  
 
@@ -79,7 +84,7 @@
 - 🥇 Cloud Co-Lead @ GDG SISTec  
 - 🌍 Google Solution Challenge Participant  
 - ☁️ Google Cloud Arcade Achiever  
-- 🧠 Built AI projects (Crop Detection, AI Tutor, AR Learning)  
+- 🧠 Built AI-based solutions (Crop Detection, AI Tutor, AR Learning)  
 
 ---
 
@@ -103,7 +108,7 @@
 ---
 
 ## ⚡ Fun Fact:
-💡 *"I build real-world solutions using code and continuous learning."*
+💡 *"I solve problems with C++ and build solutions with full stack."*
 
 ---
 
