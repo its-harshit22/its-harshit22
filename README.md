@@ -75,7 +75,7 @@
 
 ### 🔹 Portfolio Website
 - Modern responsive portfolio  
-- 🔗 Live: https://its-harshit22.github.io/portfolio  
+- 🔗 Live: [https://its-harshit22.github.io/portfolio ](https://harshitkushwah.vercel.app/) 
 - 🔧 Tech: HTML, CSS, JS  
 
 ---
