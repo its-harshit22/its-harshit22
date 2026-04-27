@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Kushwah</h1>
+ align="center">Hi 👋, I'm Harshit Kushwah</h1>
 <h3 align="center">🚀 Software Developer | C++ | DSA Enthusiast | Full Stack Developer</h3>
 
 ---
