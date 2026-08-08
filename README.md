@@ -1,117 +1,191 @@
-<h1 align="center">Hi 👋, I'm Harshit Kushwah</h1>
-<h3 align="center">🚀 Software Developer | C++ | DSA Enthusiast | Full Stack Developer</h3>
+# 👋 Hi, I'm Harshit Kushwah
+
+🎓 B.Tech CSE Student @ **SISTec**
+💻 Strong in **C++ & Data Structures and Algorithms**
+🧠 Problem Solver | **LeetCode**
+🌐 Full Stack Developer | MERN + Web
+☁️ **Cloud Co-Lead @ GDG SISTec**
+🎯 Aspiring **SDE @ Product-Based Company**
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;DSA+Problem+Solver;Full+Stack+Developer;Cloud+Learner" />
+## 🚀 About Me
+
+* 🔥 Practicing **Data Structures & Algorithms** regularly
+* 💻 Solving problems on **LeetCode** to improve problem-solving skills
+* 🌐 Building projects with **MERN & Web Technologies**
+* ☁️ Exploring **Cloud Computing & Google Cloud**
+* 🏗️ Interested in building practical, real-world applications
+* 📚 Always learning something new
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/its-harshit22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me:
-- 🎓 B.Tech CSE Student @ SISTec  
-- 💻 Strong in **C++ & Data Structures and Algorithms**  
-- ⚡ Skilled in **Problem Solving (LeetCode)**  
-- 🌐 Full Stack Developer (MERN + Web)  
-- ☁️ Cloud Co-Lead @ GDG SISTec  
-- 🎯 Goal: Crack a **Product-Based Company (SDE Role)**  
+## 📄 Resume
 
----
-
-## 🌐 Connect With Me:
-<p align="center">
-<a href="https://linkedin.com/in/harshit-kushwah-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kushwahharshit22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://harshitkushwah.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<p align="left">
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📄 Resume:
-<p align="center">
-<a href="https://github.com/its-harshit22/Current_Resume" target="_blank">
-<img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+## 💻 Tech Stack
+
+### 🧠 Languages & DSA
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 💻 Tech Stack:
+## 🧠 LeetCode Stats
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,gcp,azure" />
+  <img src="https://leetcard.jacoblin.cool/its-harshit22?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
 
-## 🧠 LeetCode Stats:
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/harshit-kushwah?theme=dark&font=Baloo&ext=contest" />
-</p>
+## 🚀 Featured Projects
+
+### 🔹 CampusTrack — Student Management System
+
+> A Java-based student management system for managing students, faculty and attendance.
+
+**Tech:** Java • Swing • AWT • JDBC • MySQL
+
+* 👨‍🎓 Student management
+* 👨‍🏫 Faculty management
+* 📋 Attendance tracking
+* 🔐 Authentication
+* 🗄️ MySQL database integration
 
 ---
 
-## 🚀 Featured Projects:
+### 🔹 DSA & LeetCode Repository
 
-### 🔹 Contact API
-- REST API for managing contacts  
-- 🔧 Tech: Node.js, Express  
+> A collection of Data Structures & Algorithms implementations and LeetCode solutions.
 
-### 🔹 Library Management System
-- Manage books, issue/return system  
-- 🔧 Tech: Java  
+**Tech:** C++
 
-### 🔹 Student Management System
-- Manage student data & records  
-- 🔧 Tech: Java  
+* 🧠 Dynamic Programming
+* 🌳 Trees & Graphs
+* 🔍 Binary Search
+* 🔄 Recursion & Backtracking
+* ⚡ Greedy Algorithms
+* 🚀 Optimized solutions
 
-### 🔹 ChatBot 🤖
-- Interactive chatbot with utilities  
-- 🔧 Tech: JavaScript  
+---
 
-### 🔹 Farmer Support System 🌾
-- Helps farmers with useful resources  
-- 🔧 Tech: Web  
+### 🔹 Computer Networks Study Repository
+
+> Exam-oriented Computer Networks notes, implementations and practical configurations.
+
+**Tech:** Computer Networks • Cisco Packet Tracer
+
+* 🌐 Networking concepts
+* 🔀 VLAN & Trunking
+* 📡 Routing
+* 🧪 Packet Tracer practice
+
+---
 
 ### 🔹 Portfolio Website
-- Modern responsive portfolio  
-- 🔗 Live: [https://its-harshit22.github.io/portfolio ](https://harshitkushwah.vercel.app/) 
-- 🔧 Tech: HTML, CSS, JS  
+
+> Personal portfolio showcasing my projects, skills and achievements.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Portfolio](https://its-harshit22.github.io/portfolio)
 
 ---
 
-## 🏆 Achievements:
-- 🥇 Cloud Co-Lead @ GDG SISTec  
-- 🌍 Google Solution Challenge Participant  
-- ☁️ Google Cloud Arcade Achiever  
-- 🧠 Built AI-based solutions (Crop Detection, AI Tutor, AR Learning)  
+## 🏆 Achievements
+
+* ☁️ **Cloud Co-Lead @ GDG SISTec**
+* 🌍 **Google Solution Challenge Participant**
+* ☁️ **Google Cloud Arcade Achiever**
+* 💻 Regular **LeetCode Problem Solver**
+* 🧠 Built projects involving **AI, Web & Cloud**
+* 🚀 Consistent DSA & development practice
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=its-harshit22&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-harshit22&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=its-harshit22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-harshit22&layout=compact&theme=tokyonight" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=its-harshit22&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-harshit22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph:
+## 📈 Contribution Graph
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-harshit22&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-harshit22&theme=tokyo-night&hide_border=true" />
 </p>
- 
+
 ---
 
-## ⚡ Fun Fact:
-💡 *"I solve problems with C++ and build solutions with full stack."*
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=its-harshit22&icon=5&color=6" />
+  <b>🚀 Keep Learning • Keep Building • Keep Solving</b>
 </p>
