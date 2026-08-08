@@ -1,36 +1,35 @@
 # 👋 Hi, I'm Harshit Kushwah
 
 🎓 B.Tech CSE Student @ **SISTec**
-💻 Strong in **C++ & Data Structures and Algorithms**
-🧠 Problem Solver | **LeetCode**
-🌐 Full Stack Developer | MERN + Web
+💻 **C++ | Data Structures & Algorithms | Problem Solving**
+🌐 Full Stack Developer
 ☁️ **Cloud Co-Lead @ GDG SISTec**
-🎯 Aspiring **SDE @ Product-Based Company**
+🎯 Aspiring **Software Development Engineer**
 
 ---
 
 ## 🚀 About Me
 
 * 🔥 Practicing **Data Structures & Algorithms** regularly
-* 💻 Solving problems on **LeetCode** to improve problem-solving skills
-* 🌐 Building projects with **MERN & Web Technologies**
+* 🧠 Solving problems on **LeetCode** to sharpen my problem-solving skills
+* 🌐 Building applications with **Full Stack Web Technologies**
 * ☁️ Exploring **Cloud Computing & Google Cloud**
-* 🏗️ Interested in building practical, real-world applications
-* 📚 Always learning something new
+* 🏗️ Turning ideas into practical projects
+* 📚 Continuously learning and improving
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/harshit-kushwah-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/its-harshit22">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/harshit-kushwah/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -39,8 +38,8 @@
 ## 📄 Resume
 
 <p align="left">
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <a href="https://github.com/its-harshit22/Current_Resume/blob/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
@@ -81,10 +80,12 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/its-harshit22?theme=dark&font=baloo&ext=heatmap" />
+  <a href="https://leetcode.com/u/harshit-kushwah/">
+    <img src="https://leetcard.jacoblin.cool/harshit-kushwah?theme=dark&font=baloo&ext=heatmap"/>
+  </a>
 </p>
 
 ---
@@ -103,6 +104,8 @@
 * 🔐 Authentication
 * 🗄️ MySQL database integration
 
+🔗 **[View Repository](YOUR_CAMPUSTRACK_REPO)**
+
 ---
 
 ### 🔹 DSA & LeetCode Repository
@@ -118,11 +121,13 @@
 * ⚡ Greedy Algorithms
 * 🚀 Optimized solutions
 
+🔗 **[View Repository](YOUR_DSA_REPO)**
+
 ---
 
 ### 🔹 Computer Networks Study Repository
 
-> Exam-oriented Computer Networks notes, implementations and practical configurations.
+> Structured and exam-oriented Computer Networks notes and practical configurations.
 
 **Tech:** Computer Networks • Cisco Packet Tracer
 
@@ -130,6 +135,8 @@
 * 🔀 VLAN & Trunking
 * 📡 Routing
 * 🧪 Packet Tracer practice
+
+🔗 **[View Repository](YOUR_CN_REPO)**
 
 ---
 
@@ -139,7 +146,7 @@
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 [View Portfolio](https://its-harshit22.github.io/portfolio)
+🔗 **[Live Portfolio](https://its-harshit22.github.io/portfolio)**
 
 ---
 
@@ -148,7 +155,7 @@
 * ☁️ **Cloud Co-Lead @ GDG SISTec**
 * 🌍 **Google Solution Challenge Participant**
 * ☁️ **Google Cloud Arcade Achiever**
-* 💻 Regular **LeetCode Problem Solver**
+* 💻 Active **LeetCode Problem Solver**
 * 🧠 Built projects involving **AI, Web & Cloud**
 * 🚀 Consistent DSA & development practice
 
@@ -157,23 +164,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-harshit22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=its-harshit22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=its-harshit22&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-harshit22&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-harshit22&theme=tokyo-night&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=its-harshit22&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -181,7 +176,7 @@
 ## 💭 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
