@@ -121,7 +121,7 @@
 * ⚡ Greedy Algorithms
 * 🚀 Optimized solutions
 
-🔗 **[View Repository](YOUR_DSA_REPO)**
+🔗 **[View Repository](https://github.com/its-harshit22/Moving_ahead)**
 
 ---
 
